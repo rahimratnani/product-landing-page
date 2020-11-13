@@ -6,4 +6,4 @@ Technologies used:
 1. HTML
 2. CSS
 
-See it live here.
+See it live [here](https://rahimratnani.github.io/product-landing-page/).
